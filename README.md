@@ -1,4 +1,4 @@
-# ✅ Webhook Delivery Service - Backend Assignment (April 2025)
+# ✅ Webhook Delivery Service - Backend Assignment
 
 This project implements a complete webhook delivery backend using Python, FastAPI, PostgreSQL, Redis, and Celery. It is production-ready and containerized for easy deployment using Docker Compose.
 
@@ -23,7 +23,7 @@ This project implements a complete webhook delivery backend using Python, FastAP
 ## 🧱 Tech Stack
 
 - FastAPI: for APIs
-- **PostgreSQL: for data persistence
+- PostgreSQL: for data persistence
 - Redis: as broker and caching layer
 - Celery: for background task processing
 - Docker Compose: for service orchestration
